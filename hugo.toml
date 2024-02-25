@@ -1,0 +1,4 @@
+baseURL = 'https://mrrec00n.github.io/C00NsNEST/'
+languageCode = 'en-us'
+title = 'C00NsNEST'
+theme = 'hello-friend-ng'
